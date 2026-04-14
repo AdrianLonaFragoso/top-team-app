@@ -98,7 +98,7 @@ const personas = [
   // Liga proyecto
   {
     id: 11,
-    seudonimo: "Slinky 💹",
+    seudonimo: "SLNK",
     liga: "Liga proyecto",
     puntos: 800,
     estrellas: 4,
@@ -370,7 +370,10 @@ const App = () => {
               .sort((a, b) => b.puntos - a.puntos);
 
             return (
-              <section key={liga} className="animate-in fade-in slide-in-from-bottom-4 duration-700">
+              <section
+                key={liga}
+                className="animate-in fade-in slide-in-from-bottom-4 duration-700"
+              >
                 <div className="flex items-center gap-4 mb-8">
                   <h2 className="text-2xl font-black text-white uppercase tracking-tighter bg-indigo-500/10 px-4 py-1 rounded-lg border border-indigo-500/20">
                     {liga}
