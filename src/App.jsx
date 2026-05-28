@@ -15,7 +15,6 @@ const personas = [
     id: 2,
     seudonimo: "Top 2",
     liga: "Top 5",
-    puntos: 1450,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Top2",
     stats: { front: 5, back: 4, face: 5, outfit: 5, attitude: 5 },
@@ -24,7 +23,6 @@ const personas = [
     id: 3,
     seudonimo: "Risitos🫅",
     liga: "Top 5",
-    puntos: 1400,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Risitos",
     stats: { front: 4, back: 5, face: 5, outfit: 4, attitude: 5 },
@@ -33,7 +31,6 @@ const personas = [
     id: 4,
     seudonimo: "Galaxia (Sola) 🔺",
     liga: "Top 5",
-    puntos: 1350,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Galaxia",
     stats: { front: 5, back: 4, face: 4, outfit: 5, attitude: 4 },
@@ -42,7 +39,6 @@ const personas = [
     id: 5,
     seudonimo: "Bandida 🔺",
     liga: "Top 5",
-    puntos: 1300,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Bandida",
     stats: { front: 4, back: 3, face: 4, outfit: 5, attitude: 5 },
@@ -53,7 +49,6 @@ const personas = [
     id: 6,
     seudonimo: "Chaquetita 🔺",
     liga: "Liga de ascenso",
-    puntos: 1100,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Chaquetita",
     stats: { front: 3, back: 4, face: 4, outfit: 4, attitude: 4 },
@@ -62,7 +57,6 @@ const personas = [
     id: 7,
     seudonimo: "Bluey",
     liga: "Liga de ascenso",
-    puntos: 1050,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Bluey",
     stats: { front: 4, back: 3, face: 3, outfit: 4, attitude: 4 },
@@ -71,7 +65,6 @@ const personas = [
     id: 8,
     seudonimo: "TBD",
     liga: "Liga de ascenso",
-    puntos: 1000,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=TBD",
     stats: { front: 3, back: 3, face: 3, outfit: 3, attitude: 3 },
@@ -80,7 +73,6 @@ const personas = [
     id: 9,
     seudonimo: "Mamonsilla",
     liga: "Liga de ascenso",
-    puntos: 950,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=Mamonsilla",
     stats: { front: 2, back: 4, face: 3, outfit: 4, attitude: 3 },
@@ -89,7 +81,6 @@ const personas = [
     id: 10,
     seudonimo: "China 🔻 (Moscas)",
     liga: "Liga de ascenso",
-    puntos: 900,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=China",
     stats: { front: 3, back: 3, face: 2, outfit: 3, attitude: 2 },
@@ -100,7 +91,6 @@ const personas = [
     id: 11,
     seudonimo: "SLNK",
     liga: "Liga proyecto",
-    puntos: 800,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Slinky",
     stats: { front: 4, back: 4, face: 4, outfit: 4, attitude: 4 },
@@ -109,7 +99,6 @@ const personas = [
     id: 12,
     seudonimo: "Vestido verde",
     liga: "Liga proyecto",
-    puntos: 750,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=VestidoVerde",
     stats: { front: 3, back: 3, face: 4, outfit: 5, attitude: 3 },
@@ -118,7 +107,6 @@ const personas = [
     id: 13,
     seudonimo: "Sin apodo",
     liga: "Liga proyecto",
-    puntos: 700,
     estrellas: 2,
     foto: "https://i.pravatar.cc/150?u=SinApodo",
     stats: { front: 2, back: 2, face: 2, outfit: 2, attitude: 2 },
@@ -127,7 +115,6 @@ const personas = [
     id: 14,
     seudonimo: "Tata",
     liga: "Liga proyecto",
-    puntos: 650,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=Tata",
     stats: { front: 3, back: 3, face: 3, outfit: 3, attitude: 5 },
@@ -136,7 +123,6 @@ const personas = [
     id: 15,
     seudonimo: "Amazona",
     liga: "Liga proyecto",
-    puntos: 600,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Amazona",
     stats: { front: 5, back: 4, face: 3, outfit: 4, attitude: 4 },
@@ -147,7 +133,6 @@ const personas = [
     id: 16,
     seudonimo: "Zanahoria",
     liga: "Liga en memoria",
-    puntos: 400,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Zanahoria",
     stats: { front: 4, back: 4, face: 5, outfit: 4, attitude: 4 },
@@ -156,7 +141,6 @@ const personas = [
     id: 17,
     seudonimo: "Pelusa",
     liga: "Liga en memoria",
-    puntos: 350,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=Pelusa",
     stats: { front: 3, back: 3, face: 4, outfit: 4, attitude: 4 },
@@ -165,7 +149,6 @@ const personas = [
     id: 18,
     seudonimo: "Trabajo honesto",
     liga: "Liga en memoria",
-    puntos: 300,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=TrabajoHonesto",
     stats: { front: 3, back: 3, face: 3, outfit: 3, attitude: 5 },
@@ -174,7 +157,6 @@ const personas = [
     id: 19,
     seudonimo: "Glow up",
     liga: "Liga en memoria",
-    puntos: 250,
     estrellas: 4,
     foto: "https://i.pravatar.cc/150?u=GlowUp",
     stats: { front: 4, back: 4, face: 5, outfit: 5, attitude: 4 },
@@ -183,7 +165,6 @@ const personas = [
     id: 20,
     seudonimo: "Amiga",
     liga: "Liga en memoria",
-    puntos: 200,
     estrellas: 3,
     foto: "https://i.pravatar.cc/150?u=Amiga",
     stats: { front: 3, back: 3, face: 3, outfit: 3, attitude: 3 },
@@ -194,7 +175,6 @@ const personas = [
     id: 21,
     seudonimo: "La Bicha (IN7)",
     liga: "Liga Leyenda",
-    puntos: 2000,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=LaBicha",
     stats: { front: 5, back: 5, face: 5, outfit: 5, attitude: 5 },
@@ -203,7 +183,6 @@ const personas = [
     id: 22,
     seudonimo: "Doña Harley Q.",
     liga: "Liga Leyenda",
-    puntos: 1950,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Harley",
     stats: { front: 5, back: 5, face: 5, outfit: 5, attitude: 4 },
@@ -212,7 +191,6 @@ const personas = [
     id: 23,
     seudonimo: "Xula de xihuahua",
     liga: "Liga Leyenda",
-    puntos: 1900,
     estrellas: 5,
     foto: "https://i.pravatar.cc/150?u=Xula",
     stats: { front: 5, back: 4, face: 5, outfit: 5, attitude: 5 },
@@ -321,8 +299,11 @@ const App = () => {
     "Liga Leyenda",
   ];
 
+  const calculatePoints = (stats) =>
+    Object.values(stats).reduce((acc, val) => acc + val, 0);
+
   const calculateFinalScore = (stats) => {
-    const total = Object.values(stats).reduce((acc, val) => acc + val, 0);
+    const total = calculatePoints(stats);
     return ((total / 25) * 100).toFixed(0);
   };
 
@@ -367,7 +348,8 @@ const App = () => {
           {ligas.map((liga) => {
             const personasEnLiga = personas
               .filter((p) => p.liga === liga)
-              .sort((a, b) => b.puntos - a.puntos);
+              .map((p) => ({ ...p, puntosCalculados: calculatePoints(p.stats) }))
+              .sort((a, b) => b.puntosCalculados - a.puntosCalculados);
 
             return (
               <section
@@ -439,10 +421,10 @@ const App = () => {
                         {/* Points */}
                         <div className="text-right">
                           <div className="text-2xl font-black text-indigo-400 group-hover:scale-110 transition-transform origin-right">
-                            {persona.puntos.toLocaleString()}
+                            {persona.puntosCalculados}
                           </div>
                           <div className="text-[10px] uppercase tracking-[0.2em] font-bold text-slate-500 mt-1">
-                            {liga === "Liga en memoria" ? "Score" : "Puntos"}
+                            {liga === "Liga en memoria" ? "Score" : "Stats Sum"}
                           </div>
                         </div>
 
@@ -559,10 +541,10 @@ const App = () => {
                       <div className="h-16 w-px bg-slate-800"></div>
                       <div className="text-right">
                         <span className="text-[10px] text-slate-500 uppercase font-black tracking-widest">
-                          Total XP
+                          Total Stats
                         </span>
                         <span className="block text-2xl font-bold text-slate-300">
-                          {selectedPersona.puntos.toLocaleString()}
+                          {calculatePoints(selectedPersona.stats)}
                         </span>
                       </div>
                     </div>
